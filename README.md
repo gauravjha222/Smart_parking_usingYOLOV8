@@ -14,7 +14,7 @@ parking1.mp4: Input parking lot video (you can replace this with your own).
 yolov8s.pt: Pre-trained YOLOv8s weights (downloaded from Ultralytics).
 
 
-## How It Works
+## Results
 
 
 
