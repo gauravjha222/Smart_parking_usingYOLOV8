@@ -13,6 +13,31 @@ parking1.mp4: Input parking lot video (you can replace this with your own).
 
 yolov8s.pt: Pre-trained YOLOv8s weights (downloaded from Ultralytics).
 
+
+## How It Works
+
+
+
+
+
+![frame_120](https://github.com/user-attachments/assets/54e50e95-acde-430e-a111-d9ef83fe7b3e)
+
+
+![frame_60](https://github.com/user-attachments/assets/833cd61a-e50e-4517-901d-ccd41bc616a8)
+
+
+✅ Requirements
+
+Python 3.x
+
+OpenCV
+
+Numpy
+
+cvzone
+
+
+
 ## Features
 
 
