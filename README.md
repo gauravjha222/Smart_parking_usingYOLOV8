@@ -16,7 +16,13 @@ yolov8s.pt: Pre-trained YOLOv8s weights (downloaded from Ultralytics).
 
 ## Results
 
+The system shows the following in real-time:
 
+Parking slots with red outlines = Occupied
+
+Parking slots with green outlines = Available
+
+Display of total Available Slots at the top-left corner
 
 
 
@@ -27,14 +33,13 @@ yolov8s.pt: Pre-trained YOLOv8s weights (downloaded from Ultralytics).
 
 
 ✅ Requirements
-
 Python 3.x
 
-OpenCV
+YOLOv8 by Ultralytics
 
-Numpy
+OpenCV – For image processing and drawing.
 
-cvzone
+NumPy & Pandas – For array and tabular data handling.
 
 
 
